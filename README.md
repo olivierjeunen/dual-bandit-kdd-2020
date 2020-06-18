@@ -2,7 +2,7 @@
 Source code for our paper "Joint Policy-Value Learning for Recommendation" published at KDD 2020.
 
 ## Reproducibility
-To generate a virtual Python environment tha holds all the packages our work relies on, run:
+To generate a virtual Python environment that holds all the packages our work relies on, run:
 
     virtualenv -p python3 dual_bandit
     source dual_bandit/bin/activate
