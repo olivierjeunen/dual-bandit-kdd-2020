@@ -13,6 +13,8 @@ For example:
 
     python3 src/RunABTest_Uniform.py
 
+## Acknowledgements
+We're grateful to Hao-Jun Michael Shi (Northwestern University) and Dheevatsa Mudigere (Facebook) for their implementation of L-BFGS in PyTorch: https://github.com/hjmshi/PyTorch-LBFGS.
 
 ## Paper
 If you use our code in your research, please remember to cite our paper:
