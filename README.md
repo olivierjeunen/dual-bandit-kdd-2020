@@ -19,6 +19,7 @@ We're grateful to Hao-Jun Michael Shi (Northwestern University) and Dheevatsa Mu
 ## Paper
 If you use our code in your research, please remember to cite our paper:
 
+```BibTeX
     @inproceedings{JeunenKDD2020,
       author = {Jeunen, Olivier and Rohde, David and Vasile, Flavian and Bompaire, Martin},
       title = {Joint Policy-Value Learning for Recommendation},
