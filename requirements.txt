@@ -6,7 +6,7 @@ kiwisolver==1.2.0
 llvmlite==0.33.0
 matplotlib==3.2.1
 numba==0.50.0
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.4
 pkg-resources==0.0.0
 pyglet==1.5.0
